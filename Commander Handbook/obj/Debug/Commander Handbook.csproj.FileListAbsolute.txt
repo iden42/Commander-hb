@@ -1,0 +1,11 @@
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\bin\Debug\Commander Handbook.exe.config
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\bin\Debug\Commander Handbook.exe
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\bin\Debug\Commander Handbook.pdb
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\obj\Debug\Commander Handbook.csprojAssemblyReference.cache
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\obj\Debug\Commander_Handbook.Properties.Resources.resources
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\obj\Debug\Commander Handbook.csproj.GenerateResource.cache
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\obj\Debug\Commander Handbook.csproj.CoreCompileInputs.cache
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\obj\Debug\Commander Handbook.exe
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\obj\Debug\Commander Handbook.pdb
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\obj\Debug\Commander_Handbook.FormMain.resources
+D:\ХНУРЕ\1 Курс\Курсачи\Commander Handbook\Commander Handbook\obj\Debug\Commander_Handbook.FormAddEditSoldier.resources
